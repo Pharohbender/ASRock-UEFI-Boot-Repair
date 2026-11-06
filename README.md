@@ -4,7 +4,7 @@ B85M-ITX mother board - boot Linux distributions after install.
 
 ASRock UEFI Boot Discovery & Repair Tool 🖥️
 
-A Bash-based UEFI boot discovery and repair utility for ASRock motherboards.
+A Bash-based UEFI boot discovery and repair utility for ASRock B85M-ITX motherboards.
 
 Designed to help diagnose and restore missing UEFI boot entries when bootloaders are present on disk but are no longer registered in motherboard firmware.
 
