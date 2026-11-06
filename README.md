@@ -1,5 +1,4 @@
-# Asrock-Linux-Boot-issue-
-B85M-ITX mother board - boot Linux distributions after install.
+ChatGPT Script to get B85M-ITX motherboard to boot Linux distributions after install UEFI not detecting SSD mount points.
 
 
 ASRock UEFI Boot Discovery & Repair Tool 🖥️
