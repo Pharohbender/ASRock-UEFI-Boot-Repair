@@ -89,7 +89,7 @@ Arch Linux Live USB
 Clone the repository:
 
 bash
-git clone https://github.com/YOUR_USERNAME/ASRock-UEFI-Boot-Repair.git
+git clone https://github.com/Pharohbender/ASRock-Linux-Boot-Issue-.git
 
 
 Enter the directory:
